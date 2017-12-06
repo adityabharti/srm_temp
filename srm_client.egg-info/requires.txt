@@ -1,0 +1,9 @@
+colorama
+docopt
+infi.pyutils
+infi.recipe.console_scripts
+jinja2
+requests
+setuptools
+tabulate
+xmltodict

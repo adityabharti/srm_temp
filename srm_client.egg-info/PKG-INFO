@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: srm-client
+Version: 0.1.5
+Summary: A simple client for VMWare SRM
+Home-page: UNKNOWN
+Author: Guy Rozendorn
+Author-email: guy@rzn.co.il
+License: PSF
+Description-Content-Type: UNKNOWN
+Description: A Python client for connecting to VMWare SRM via its SOAP API and performing recovery operations
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: Python Software Foundation License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules

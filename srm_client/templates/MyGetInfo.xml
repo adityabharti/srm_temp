@@ -1,0 +1,8 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:urn="urn:srm0">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <urn:GetInfo>
+         <urn:_this type="SrmProtectionGroup">SrmProtectionGroup</urn:_this>
+      </urn:GetInfo>
+   </soapenv:Body>
+</soapenv:Envelope>

@@ -1,0 +1,11 @@
+<soap:Envelope xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <RetrieveContent xmlns="urn:srm0">
+      <_this xsi:type="p7:ManagedObjectReference"
+             type="srm0:SrmServiceInstanceContent" serverGuid=""
+             xmlns:p7="urn:vim25">DrServiceInstance</_this>
+    </RetrieveContent>
+  </soap:Body>
+</soap:Envelope>

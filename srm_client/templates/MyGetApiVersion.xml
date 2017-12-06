@@ -1,0 +1,8 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:urn="urn:srm0">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <urn:GetApiVersion>
+         <urn:_this type="DisasterRecoveryApi">DisasterRecoveryApi</urn:_this>
+      </urn:GetApiVersion>
+   </soapenv:Body>
+</soapenv:Envelope>

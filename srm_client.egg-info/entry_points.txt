@@ -1,0 +1,6 @@
+[console_scripts]
+srm = srm_client.cli:srm
+
+[gui_scripts]
+
+
